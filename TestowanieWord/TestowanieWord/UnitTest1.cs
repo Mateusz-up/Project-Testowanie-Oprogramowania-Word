@@ -59,7 +59,7 @@ namespace Tests
         [Test]
         public void Zapisaniepliku()
         {
-            Keyboard.Type("Idzie kotek i bije Marka");
+            Keyboard.Type("Idzie kotek i skacze");
             OtwarcieOknaDialogowego();
             Window window2 = window.ModalWindows[0];
             var comboBoxes = window2.FindAllDescendants(cf.ByControlType(ControlType.ComboBox));
@@ -109,7 +109,7 @@ namespace Tests
             var buttonOpen2 = window.FindAllDescendants(cf.ByName("Otwórz"))[2];
             buttonOpen2.Click();
             //using (var automation = new UIA3Automation()) ;
-            //var checkText = window.FindFirstDescendant(cf.ByText("Idzie kotek i bije Marka")).AsTextBox().Text;
+            //var checkText = window.FindFirstDescendant(cf.ByText("Idzie kotek i skacze")).AsTextBox().Text;
             //System.Console.WriteLine(checkText);
 
             Thread.Sleep(sleepTimeNormal);
