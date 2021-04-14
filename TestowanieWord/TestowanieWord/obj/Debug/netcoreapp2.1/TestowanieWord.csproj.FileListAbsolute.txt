@@ -1,0 +1,17 @@
+C:\Users\Mateusz Dec\Documents\203top2mdec\Projekt\TestowanieWord\TestowanieWord\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\Mateusz Dec\Documents\203top2mdec\Projekt\TestowanieWord\TestowanieWord\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\Mateusz Dec\Documents\203top2mdec\Projekt\TestowanieWord\TestowanieWord\bin\Debug\netcoreapp2.1\TestowanieWord.deps.json
+C:\Users\Mateusz Dec\Documents\203top2mdec\Projekt\TestowanieWord\TestowanieWord\bin\Debug\netcoreapp2.1\TestowanieWord.runtimeconfig.json
+C:\Users\Mateusz Dec\Documents\203top2mdec\Projekt\TestowanieWord\TestowanieWord\bin\Debug\netcoreapp2.1\TestowanieWord.runtimeconfig.dev.json
+C:\Users\Mateusz Dec\Documents\203top2mdec\Projekt\TestowanieWord\TestowanieWord\bin\Debug\netcoreapp2.1\TestowanieWord.dll
+C:\Users\Mateusz Dec\Documents\203top2mdec\Projekt\TestowanieWord\TestowanieWord\obj\Debug\netcoreapp2.1\TestowanieWord.csprojAssemblyReference.cache
+C:\Users\Mateusz Dec\Documents\203top2mdec\Projekt\TestowanieWord\TestowanieWord\obj\Debug\netcoreapp2.1\TestowanieWord.csproj.CoreCompileInputs.cache
+C:\Users\Mateusz Dec\Documents\203top2mdec\Projekt\TestowanieWord\TestowanieWord\obj\Debug\netcoreapp2.1\TestowanieWord.AssemblyInfoInputs.cache
+C:\Users\Mateusz Dec\Documents\203top2mdec\Projekt\TestowanieWord\TestowanieWord\obj\Debug\netcoreapp2.1\TestowanieWord.AssemblyInfo.cs
+C:\Users\Mateusz Dec\Documents\203top2mdec\Projekt\TestowanieWord\TestowanieWord\bin\Debug\netcoreapp2.1\nunit.engine.dll
+C:\Users\Mateusz Dec\Documents\203top2mdec\Projekt\TestowanieWord\TestowanieWord\bin\Debug\netcoreapp2.1\nunit.engine.api.dll
+C:\Users\Mateusz Dec\Documents\203top2mdec\Projekt\TestowanieWord\TestowanieWord\bin\Debug\netcoreapp2.1\testhost.exe
+C:\Users\Mateusz Dec\Documents\203top2mdec\Projekt\TestowanieWord\TestowanieWord\bin\Debug\netcoreapp2.1\testhost.dll
+C:\Users\Mateusz Dec\Documents\203top2mdec\Projekt\TestowanieWord\TestowanieWord\bin\Debug\netcoreapp2.1\TestowanieWord.pdb
+C:\Users\Mateusz Dec\Documents\203top2mdec\Projekt\TestowanieWord\TestowanieWord\obj\Debug\netcoreapp2.1\TestowanieWord.dll
+C:\Users\Mateusz Dec\Documents\203top2mdec\Projekt\TestowanieWord\TestowanieWord\obj\Debug\netcoreapp2.1\TestowanieWord.pdb
